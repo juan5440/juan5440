@@ -4,8 +4,7 @@
 - :mailbox: Mi Gmail:gsoto5440@gmail.com
 
 <!---
-juan5440/juan5440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+juan5440/juan5440 is a ✨ special ✨ repository cvcbecause its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-![innovacion - copia](https://user-images.githubusercontent.com/70282114/200706664-0681a900-3974-41a7-b6c7-08063d88232d.png)
