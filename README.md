@@ -11,10 +11,10 @@
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** PHP, JavaScript, SQL, HTML, CSS  
-- **Frameworks & Librerías:** Bootstrap, jQuery, AJAX  
-- **Bases de datos:** MySQL  
-- **Herramientas:** Git, GitHub, VS Code, XAMPP/Laragon  
+- **Lenguajes:** PHP, JavaScript, SQL, HTML, CSS, Python (básico)  
+- **Frameworks & Librerías:** Laravel, CodeIgniter, Bootstrap, jQuery, AJAX  
+- **Bases de datos:** MySQL, SQL Server  
+- **Herramientas:** Git, GitHub, VS Code, XAMPP
 - **Intereses adicionales:** Ciberseguridad, DevOps, Cloud  
 
 ---
