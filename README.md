@@ -28,8 +28,7 @@
 
 ## 📬 Contáctame
 - ✉️ **Correo:** [gsoto5440@gmail.com](mailto:gsoto5440@gmail.com)  
-- 💼 **LinkedIn (si tienes):** [Tu perfil aquí]  
-- 🐙 **GitHub:** [github.com/tuusuario](https://github.com/juan5440)  
+- 🐙 **GitHub:** [github.com/juan5440](https://github.com/juan5440)  
 
 ---
 
